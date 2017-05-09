@@ -1,0 +1,27 @@
+body {
+	background: pink;
+}
+div {
+	font-size:40px;
+}
+ul {
+	li {
+		border:3px solid red;
+		span {
+			font-size:30px;
+			border:2px solid black;
+
+		}
+		var {
+			display:block;
+			width:100px;
+			height:100px;
+			// background: url(i/btn.png?__sprite) no-repeat 0 0;
+		}
+	}
+}
+.test {
+	width:300px;
+	height:300px;
+	// background:url(i/h5-banner.jpg?__sprite) no-repeat 0 0;
+}
